@@ -1,0 +1,24 @@
+{
+    "codigo": 1,
+    "nome": "Tiago Urtiga",
+    "cpf": "12345678909",
+    "enderecos": [
+        {
+            "codigo": 1,
+            "logradouro": "Comerciante Jose Miranda de Araujo",
+            "numero": 185,
+            "complemento": "Casa",
+            "bairro": "Jardim Oceania",
+            "cidade": "João Pessoa",
+            "estado": "PB"
+        }
+    ],
+    "telefones": [
+        {
+            "codigo": 1,
+            "ddd": "83",
+            "numero": "999914829"
+        }
+    ]
+}
+

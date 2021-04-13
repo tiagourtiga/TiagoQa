@@ -1,0 +1,23 @@
+{
+    "codigo": 5,
+    "nome": "Rommel Von",
+    "cpf": "12335678909",
+    "enderecos": [
+        {
+            "codigo": 5,
+            "logradouro": "Rua Alexandre Dumas",
+            "numero": 123,
+            "complemento": "Empresa",
+            "bairro": "Chacara Santo Antonio",
+            "cidade": "S�o Paulo",
+            "estado": "SP"
+        }
+    ],
+    "telefones": [
+        {
+            "codigo": 5,
+            "ddd": "11",
+            "numero": "985388877"
+        }
+    ]
+}

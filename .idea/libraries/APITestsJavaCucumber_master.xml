@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="APITestsJavaCucumber-master">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../APITestsJavaCucumber-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../APITestsJavaCucumber-master/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
